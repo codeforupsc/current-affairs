@@ -1,9 +1,19 @@
 +++
-title = "First Post"
-date = 2019-09-20T13:34:31+05:30
-draft = true
-tags = []
-categories = []
+title = "(Hu)go Template Primer"
+description = ""
+tags = [
+    "go",
+    "golang",
+    "templates",
+    "themes",
+    "development",
+]
+date = "2014-04-02"
+categories = [
+    "Development",
+    "golang",
+]
+image = ""
 +++
 
 
